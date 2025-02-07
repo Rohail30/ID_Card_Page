@@ -3,8 +3,8 @@
 A **Flutter-based ID card application** that displays a company's logo, employee details, and a barcode. The UI is structured using `Column`, `Container`, and `Row` widgets to create a well-aligned layout.
 
 ## 📸 Screenshot  
-![Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with your actual image file)*
+![SS](https://github.com/user-attachments/assets/9115fe0f-6de8-4351-89e7-0256ef2bbf46)
+
 
 ## ✨ Features  
 - Displays **Company Logo** and **Tagline**  
