@@ -29,8 +29,7 @@ A **Flutter-based ID card application** that displays a company's logo, employee
 ## 🚀 Installation & Run  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/company-id-card.git
-   cd company-id-card
+   git clone this repository
    ```
 2. Install dependencies  
    ```sh
